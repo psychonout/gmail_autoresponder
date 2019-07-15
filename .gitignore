@@ -1,0 +1,6 @@
+# Logs and database
+db.*
+*.log
+
+# Credentials
+*.json
